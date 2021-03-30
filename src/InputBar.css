@@ -1,18 +1,33 @@
+body{
+    background-color: #a3d2ca;
+}
+
+
+div{
+    margin-top: 4em;
+}
+
 .btn {
     border: 0;
     line-height: 2.5;
-    padding: 0 20px;
+    padding:0 20px;
     font-size: 1rem;
     text-align: center;
     color: #fff;
-    text-shadow: 1px 1px 1px #000;
-    border-radius: 10px;
-    background-color: rgba(220, 0, 0, 1);
+    border-radius: 15px;
+    background-color: #e9896a;
+    margin-left: 2em;
 
 }
 
+
+
+
 #name{
-    width: 40%;
+    border: 0;
+    border-radius: 15px;
+    width: 20%;
     height: 40px;
-    font-size: 2em;
+    font-size: 1em;
+    padding: 0 10px 0 5px;
 }
